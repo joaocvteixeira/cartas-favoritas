@@ -1,3 +1,5 @@
+# 🃏 Cartas favoritas: Descubra as cartas favoritas dos colaboradores desse repositório
+
 A carta de jogos favorita do criador do repositório **[joaocvteixeira](https://github.com/joaocvteixeira)** é  
 <img src="https://images.ygoprodeck.com/images/cards/41175645.jpg" width="250" alt="Mago Silencioso">  
 _Jogo: Yu-Gi-Oh!_
