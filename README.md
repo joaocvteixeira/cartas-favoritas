@@ -6,9 +6,9 @@ _Jogo: Yu-Gi-Oh!_
 
 ---
 
-A carta de jogos favorita do colaborador do repositório **[nomedocolaborador](https://github.com/colaborador)** é  
-<img src="url_da_carta" width="250" alt="nome_da_carta">  
-_Jogo: nome_do_jogo_
+A carta de jogos favorita do colaborador do repositório **[lucascasreal](https://github.com/lucascasreal)** é  
+<img src="https://www.deviantart.com/kai1411/art/D-D-D-Oblivion-King-Abyss-Ragnarok-547893153" width="250" alt="D/D/D Oblivion King Abyss Ragnarok">  
+_Jogo: Yu-Gi-Oh!_
 
 ---
 
